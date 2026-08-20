@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+riwayat_sentimen.db
+.env
+.venv/
+venv/
+.DS_Store

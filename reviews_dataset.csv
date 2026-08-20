@@ -1,0 +1,301 @@
+id,review,sentimen
+1,"Kualitas cukup, sesuai dengan harga yang dibayar.",netral
+2,Support timnya cepat tanggap saat saya ada kendala.,positif
+3,Rasa makanannya hambar dan porsi terlalu sedikit.,negatif
+4,"Desainnya cukup sesuai, fungsinya standar.",netral
+5,"Kualitas jauh dari ekspektasi, tidak sesuai foto.",negatif
+6,"Produk ini sangat bagus, saya sangat puas dengan kualitasnya!",positif
+7,"Sangat mengecewakan, uang saya terbuang sia-sia.",negatif
+8,Support timnya merespon dalam waktu wajar.,netral
+9,"Harga terjangkau tapi kualitas premium, luar biasa.",positif
+10,"Sangat worth it untuk harga segini, recommended!",positif
+11,"Pengiriman normal, tidak terlalu cepat atau lambat.",netral
+12,"Pelayanan biasa, sesuai ekspektasi umum.",netral
+13,"Kualitas jauh dari ekspektasi, tidak sesuai foto.",negatif
+14,"Kualitas barang melebihi ekspektasi saya, terima kasih!",positif
+15,"Pengiriman sangat cepat, packing rapi, mantap!",positif
+16,Desainnya elegan dan fungsinya sesuai kebutuhan saya.,positif
+17,"Rasa makanannya enak banget, porsi juga pas.",positif
+18,"Kualitas jahitan berantakan, bahan kasar, tidak recommended.",negatif
+19,"Kualitas jahitan berantakan, bahan kasar, tidak recommended.",negatif
+20,"Pelayanan cepat dan ramah, sangat direkomendasikan.",positif
+21,Desainnya jelek dan fungsinya tidak sesuai kebutuhan.,negatif
+22,"Pelayanan biasa, sesuai ekspektasi umum.",netral
+23,Aplikasinya mudah digunakan dan tidak lemot sama sekali.,positif
+24,"Harga mahal tapi kualitas biasa saja, tidak worth it.",negatif
+25,"Sangat mengecewakan, uang saya terbuang sia-sia.",negatif
+26,Support timnya merespon dalam waktu wajar.,netral
+27,Support timnya cepat tanggap saat saya ada kendala.,positif
+28,Desainnya jelek dan fungsinya tidak sesuai kebutuhan.,negatif
+29,Aplikasinya sering error dan sangat lemot.,negatif
+30,"Rasa makanannya enak banget, porsi juga pas.",positif
+31,"Desainnya cukup sesuai, fungsinya standar.",netral
+32,"Pengiriman normal, tidak terlalu cepat atau lambat.",netral
+33,Rasa makanannya hambar dan porsi terlalu sedikit.,negatif
+34,"Pengiriman normal, tidak terlalu cepat atau lambat.",netral
+35,"Kualitas barang melebihi ekspektasi saya, terima kasih!",positif
+36,"Kualitas jahitan lumayan, bahan cukup nyaman.",netral
+37,"Saya senang sekali dengan pembelian ini, top!",positif
+38,"Barang yang saya terima rusak, sangat mengecewakan.",negatif
+39,"Pelayanan cepat dan ramah, sangat direkomendasikan.",positif
+40,Harga sesuai dengan kualitas yang ditawarkan.,netral
+41,"Pelayanan biasa, sesuai ekspektasi umum.",netral
+42,"Barangnya original dan sesuai deskripsi, puas banget.",positif
+43,Desainnya jelek dan fungsinya tidak sesuai kebutuhan.,negatif
+44,Aplikasinya sering error dan sangat lemot.,negatif
+45,"Pengiriman sangat cepat, packing rapi, mantap!",positif
+46,"Harga mahal tapi kualitas biasa saja, tidak worth it.",negatif
+47,"Sangat memuaskan, akan beli lagi di sini.",positif
+48,"Saya senang sekali dengan pembelian ini, top!",positif
+49,Aplikasinya sering error dan sangat lemot.,negatif
+50,"Pelayanan cepat dan ramah, sangat direkomendasikan.",positif
+51,"Harga terjangkau tapi kualitas premium, luar biasa.",positif
+52,"Barangnya sesuai deskripsi, tidak lebih tidak kurang.",netral
+53,Aplikasinya sering error dan sangat lemot.,negatif
+54,Aplikasinya sering error dan sangat lemot.,negatif
+55,"Harga terjangkau tapi kualitas premium, luar biasa.",positif
+56,"Saya kecewa dengan pembelian ini, tidak akan beli lagi.",negatif
+57,"Kualitas jahitan rapi, bahan adem, recommended seller.",positif
+58,"Pembelian ini biasa saja, tidak ada kesan khusus.",netral
+59,"Pembelian ini biasa saja, tidak ada kesan khusus.",netral
+60,Harga sesuai dengan kualitas yang ditawarkan.,netral
+61,"Kualitas jahitan lumayan, bahan cukup nyaman.",netral
+62,"Cukup memuaskan, mungkin akan pertimbangkan beli lagi.",netral
+63,"Kualitas jauh dari ekspektasi, tidak sesuai foto.",negatif
+64,"Kualitas jahitan lumayan, bahan cukup nyaman.",netral
+65,"Sangat mengecewakan, uang saya terbuang sia-sia.",negatif
+66,"Customer service sangat membantu, respon cepat.",positif
+67,"Kualitas jahitan berantakan, bahan kasar, tidak recommended.",negatif
+68,"Kualitas jahitan lumayan, bahan cukup nyaman.",netral
+69,Desainnya jelek dan fungsinya tidak sesuai kebutuhan.,negatif
+70,"Barangnya palsu, tidak sesuai deskripsi sama sekali.",negatif
+71,"Aplikasinya cukup mudah digunakan, ada beberapa bug kecil.",netral
+72,"Desainnya cukup sesuai, fungsinya standar.",netral
+73,"Harga sesuai untuk kualitas yang didapat, cukup adil.",netral
+74,"Kualitas jahitan rapi, bahan adem, recommended seller.",positif
+75,Desainnya jelek dan fungsinya tidak sesuai kebutuhan.,negatif
+76,"Customer service tidak membantu, respon sangat lambat.",negatif
+77,"Kualitas barang melebihi ekspektasi saya, terima kasih!",positif
+78,"Harga mahal tapi kualitas biasa saja, tidak worth it.",negatif
+79,"Customer service standar, cukup membantu.",netral
+80,Desainnya elegan dan fungsinya sesuai kebutuhan saya.,positif
+81,"Kualitas jahitan rapi, bahan adem, recommended seller.",positif
+82,"Cukup memuaskan, mungkin akan pertimbangkan beli lagi.",netral
+83,"Rasa makanannya biasa saja, porsi standar.",netral
+84,"Harga terjangkau tapi kualitas premium, luar biasa.",positif
+85,"Pengiriman lama sekali, packing juga asal-asalan.",negatif
+86,"Kualitas barang melebihi ekspektasi saya, terima kasih!",positif
+87,"Kualitas jahitan lumayan, bahan cukup nyaman.",netral
+88,"Customer service tidak membantu, respon sangat lambat.",negatif
+89,"Kualitas jahitan berantakan, bahan kasar, tidak recommended.",negatif
+90,"Kualitas jahitan lumayan, bahan cukup nyaman.",netral
+91,"Kualitas jahitan berantakan, bahan kasar, tidak recommended.",negatif
+92,"Customer service standar, cukup membantu.",netral
+93,Support timnya cepat tanggap saat saya ada kendala.,positif
+94,"Aplikasinya cukup mudah digunakan, ada beberapa bug kecil.",netral
+95,"Harga terjangkau tapi kualitas premium, luar biasa.",positif
+96,"Saya kecewa dengan pembelian ini, tidak akan beli lagi.",negatif
+97,"Pelayanan cepat dan ramah, sangat direkomendasikan.",positif
+98,Support timnya cepat tanggap saat saya ada kendala.,positif
+99,"Pelayanan cepat dan ramah, sangat direkomendasikan.",positif
+100,"Tidak worth it untuk harga segini, tidak recommended.",negatif
+101,"Pelayanan cepat dan ramah, sangat direkomendasikan.",positif
+102,"Kualitas cukup, sesuai dengan harga yang dibayar.",netral
+103,"Sangat mengecewakan, uang saya terbuang sia-sia.",negatif
+104,"Barangnya original dan sesuai deskripsi, puas banget.",positif
+105,Support timnya cepat tanggap saat saya ada kendala.,positif
+106,"Saya senang sekali dengan pembelian ini, top!",positif
+107,"Tidak worth it untuk harga segini, tidak recommended.",negatif
+108,"Pelayanan biasa, sesuai ekspektasi umum.",netral
+109,"Harga mahal tapi kualitas biasa saja, tidak worth it.",negatif
+110,Aplikasinya sering error dan sangat lemot.,negatif
+111,"Produk ini standar saja, tidak ada yang istimewa.",netral
+112,"Kualitas jahitan lumayan, bahan cukup nyaman.",netral
+113,"Kualitas jahitan lumayan, bahan cukup nyaman.",netral
+114,"Desainnya cukup sesuai, fungsinya standar.",netral
+115,"Pengiriman sangat cepat, packing rapi, mantap!",positif
+116,"Harga terjangkau tapi kualitas premium, luar biasa.",positif
+117,"Pelayanan lambat dan tidak responsif, kecewa berat.",negatif
+118,Rasa makanannya hambar dan porsi terlalu sedikit.,negatif
+119,Aplikasinya mudah digunakan dan tidak lemot sama sekali.,positif
+120,"Rasa makanannya enak banget, porsi juga pas.",positif
+121,"Pengiriman sangat cepat, packing rapi, mantap!",positif
+122,"Harga sesuai untuk kualitas yang didapat, cukup adil.",netral
+123,"Kualitas jahitan lumayan, bahan cukup nyaman.",netral
+124,"Barangnya palsu, tidak sesuai deskripsi sama sekali.",negatif
+125,"Pengiriman sangat cepat, packing rapi, mantap!",positif
+126,"Barangnya palsu, tidak sesuai deskripsi sama sekali.",negatif
+127,"Pelayanan cepat dan ramah, sangat direkomendasikan.",positif
+128,"Pengiriman lama sekali, packing juga asal-asalan.",negatif
+129,Desainnya jelek dan fungsinya tidak sesuai kebutuhan.,negatif
+130,"Pengiriman sangat cepat, packing rapi, mantap!",positif
+131,"Pelayanan cepat dan ramah, sangat direkomendasikan.",positif
+132,"Tidak worth it untuk harga segini, tidak recommended.",negatif
+133,"Harga terjangkau tapi kualitas premium, luar biasa.",positif
+134,"Desainnya cukup sesuai, fungsinya standar.",netral
+135,"Pengiriman normal, tidak terlalu cepat atau lambat.",netral
+136,"Rasa makanannya enak banget, porsi juga pas.",positif
+137,"Harga sesuai untuk kualitas yang didapat, cukup adil.",netral
+138,"Cukup memuaskan, mungkin akan pertimbangkan beli lagi.",netral
+139,"Pengiriman sangat cepat, packing rapi, mantap!",positif
+140,"Saya kecewa dengan pembelian ini, tidak akan beli lagi.",negatif
+141,"Barangnya palsu, tidak sesuai deskripsi sama sekali.",negatif
+142,Desainnya jelek dan fungsinya tidak sesuai kebutuhan.,negatif
+143,"Pengiriman sangat cepat, packing rapi, mantap!",positif
+144,"Tidak worth it untuk harga segini, tidak recommended.",negatif
+145,"Pengiriman lama sekali, packing juga asal-asalan.",negatif
+146,"Kualitas jahitan berantakan, bahan kasar, tidak recommended.",negatif
+147,"Sangat memuaskan, akan beli lagi di sini.",positif
+148,Support timnya cepat tanggap saat saya ada kendala.,positif
+149,"Customer service sangat membantu, respon cepat.",positif
+150,Support timnya lambat merespon keluhan saya.,negatif
+151,"Pelayanan cepat dan ramah, sangat direkomendasikan.",positif
+152,"Pengiriman lama sekali, packing juga asal-asalan.",negatif
+153,"Kualitas jahitan berantakan, bahan kasar, tidak recommended.",negatif
+154,Support timnya lambat merespon keluhan saya.,negatif
+155,"Produk ini standar saja, tidak ada yang istimewa.",netral
+156,"Tidak worth it untuk harga segini, tidak recommended.",negatif
+157,"Tidak worth it untuk harga segini, tidak recommended.",negatif
+158,"Harga sesuai untuk kualitas yang didapat, cukup adil.",netral
+159,"Kualitas jauh dari ekspektasi, tidak sesuai foto.",negatif
+160,"Barangnya palsu, tidak sesuai deskripsi sama sekali.",negatif
+161,"Produk ini sangat bagus, saya sangat puas dengan kualitasnya!",positif
+162,"Produk ini sangat bagus, saya sangat puas dengan kualitasnya!",positif
+163,"Kualitas cukup, sesuai dengan harga yang dibayar.",netral
+164,"Kualitas jahitan lumayan, bahan cukup nyaman.",netral
+165,"Sangat memuaskan, akan beli lagi di sini.",positif
+166,"Customer service sangat membantu, respon cepat.",positif
+167,"Harga mahal tapi kualitas biasa saja, tidak worth it.",negatif
+168,"Customer service standar, cukup membantu.",netral
+169,"Rasa makanannya enak banget, porsi juga pas.",positif
+170,"Produk ini standar saja, tidak ada yang istimewa.",netral
+171,"Barangnya original dan sesuai deskripsi, puas banget.",positif
+172,"Barangnya original dan sesuai deskripsi, puas banget.",positif
+173,Harga sesuai dengan kualitas yang ditawarkan.,netral
+174,"Barangnya palsu, tidak sesuai deskripsi sama sekali.",negatif
+175,"Customer service tidak membantu, respon sangat lambat.",negatif
+176,Support timnya merespon dalam waktu wajar.,netral
+177,"Customer service tidak membantu, respon sangat lambat.",negatif
+178,"Sangat mengecewakan, uang saya terbuang sia-sia.",negatif
+179,"Pelayanan lambat dan tidak responsif, kecewa berat.",negatif
+180,Rasa makanannya hambar dan porsi terlalu sedikit.,negatif
+181,Aplikasinya mudah digunakan dan tidak lemot sama sekali.,positif
+182,"Barang yang saya terima rusak, sangat mengecewakan.",negatif
+183,"Barangnya sesuai deskripsi, tidak lebih tidak kurang.",netral
+184,"Kualitas jahitan rapi, bahan adem, recommended seller.",positif
+185,"Barangnya palsu, tidak sesuai deskripsi sama sekali.",negatif
+186,"Pengiriman normal, tidak terlalu cepat atau lambat.",netral
+187,"Tidak worth it untuk harga segini, tidak recommended.",negatif
+188,"Pelayanan biasa, sesuai ekspektasi umum.",netral
+189,Support timnya lambat merespon keluhan saya.,negatif
+190,"Barangnya sesuai deskripsi, tidak lebih tidak kurang.",netral
+191,"Kualitas jauh dari ekspektasi, tidak sesuai foto.",negatif
+192,"Produk ini sangat bagus, saya sangat puas dengan kualitasnya!",positif
+193,"Pengiriman sangat cepat, packing rapi, mantap!",positif
+194,"Pengiriman sangat cepat, packing rapi, mantap!",positif
+195,"Barang yang saya terima rusak, sangat mengecewakan.",negatif
+196,"Pelayanan biasa, sesuai ekspektasi umum.",netral
+197,Desainnya elegan dan fungsinya sesuai kebutuhan saya.,positif
+198,"Pelayanan lambat dan tidak responsif, kecewa berat.",negatif
+199,"Pengiriman lama sekali, packing juga asal-asalan.",negatif
+200,Aplikasinya sering error dan sangat lemot.,negatif
+201,"Customer service tidak membantu, respon sangat lambat.",negatif
+202,"Pengiriman normal, tidak terlalu cepat atau lambat.",netral
+203,"Harga sesuai untuk kualitas yang didapat, cukup adil.",netral
+204,"Produk ini sangat bagus, saya sangat puas dengan kualitasnya!",positif
+205,Aplikasinya sering error dan sangat lemot.,negatif
+206,"Harga sesuai untuk kualitas yang didapat, cukup adil.",netral
+207,"Pengiriman normal, tidak terlalu cepat atau lambat.",netral
+208,"Kualitas jahitan berantakan, bahan kasar, tidak recommended.",negatif
+209,Aplikasinya sering error dan sangat lemot.,negatif
+210,"Pelayanan cepat dan ramah, sangat direkomendasikan.",positif
+211,Harga sesuai dengan kualitas yang ditawarkan.,netral
+212,"Saya senang sekali dengan pembelian ini, top!",positif
+213,"Rasa makanannya biasa saja, porsi standar.",netral
+214,Desainnya elegan dan fungsinya sesuai kebutuhan saya.,positif
+215,"Harga sesuai untuk kualitas yang didapat, cukup adil.",netral
+216,"Barangnya palsu, tidak sesuai deskripsi sama sekali.",negatif
+217,"Pembelian ini biasa saja, tidak ada kesan khusus.",netral
+218,"Kualitas jahitan lumayan, bahan cukup nyaman.",netral
+219,"Cukup memuaskan, mungkin akan pertimbangkan beli lagi.",netral
+220,"Harga mahal tapi kualitas biasa saja, tidak worth it.",negatif
+221,Aplikasinya sering error dan sangat lemot.,negatif
+222,Aplikasinya sering error dan sangat lemot.,negatif
+223,"Sangat worth it untuk harga segini, recommended!",positif
+224,"Harga mahal tapi kualitas biasa saja, tidak worth it.",negatif
+225,"Pengiriman normal, tidak terlalu cepat atau lambat.",netral
+226,"Aplikasinya cukup mudah digunakan, ada beberapa bug kecil.",netral
+227,"Customer service standar, cukup membantu.",netral
+228,"Pengiriman sangat cepat, packing rapi, mantap!",positif
+229,Aplikasinya mudah digunakan dan tidak lemot sama sekali.,positif
+230,"Customer service standar, cukup membantu.",netral
+231,"Harga sesuai untuk kualitas yang didapat, cukup adil.",netral
+232,"Sangat memuaskan, akan beli lagi di sini.",positif
+233,"Desainnya cukup sesuai, fungsinya standar.",netral
+234,Rasa makanannya hambar dan porsi terlalu sedikit.,negatif
+235,Support timnya merespon dalam waktu wajar.,netral
+236,"Saya senang sekali dengan pembelian ini, top!",positif
+237,"Saya kecewa dengan pembelian ini, tidak akan beli lagi.",negatif
+238,"Aplikasinya cukup mudah digunakan, ada beberapa bug kecil.",netral
+239,Aplikasinya sering error dan sangat lemot.,negatif
+240,"Rasa makanannya enak banget, porsi juga pas.",positif
+241,"Produk ini sangat bagus, saya sangat puas dengan kualitasnya!",positif
+242,"Pelayanan biasa, sesuai ekspektasi umum.",netral
+243,Rasa makanannya hambar dan porsi terlalu sedikit.,negatif
+244,"Pembelian ini biasa saja, tidak ada kesan khusus.",netral
+245,"Sangat memuaskan, akan beli lagi di sini.",positif
+246,"Pengiriman normal, tidak terlalu cepat atau lambat.",netral
+247,"Kualitas cukup, sesuai dengan harga yang dibayar.",netral
+248,"Sangat mengecewakan, uang saya terbuang sia-sia.",negatif
+249,"Kualitas jauh dari ekspektasi, tidak sesuai foto.",negatif
+250,"Sangat worth it untuk harga segini, recommended!",positif
+251,"Kualitas jahitan rapi, bahan adem, recommended seller.",positif
+252,Rasa makanannya hambar dan porsi terlalu sedikit.,negatif
+253,"Aplikasinya cukup mudah digunakan, ada beberapa bug kecil.",netral
+254,"Rasa makanannya biasa saja, porsi standar.",netral
+255,Support timnya merespon dalam waktu wajar.,netral
+256,"Kualitas cukup, sesuai dengan harga yang dibayar.",netral
+257,"Produk ini sangat bagus, saya sangat puas dengan kualitasnya!",positif
+258,"Kualitas cukup, sesuai dengan harga yang dibayar.",netral
+259,"Cukup memuaskan, mungkin akan pertimbangkan beli lagi.",netral
+260,"Pelayanan biasa, sesuai ekspektasi umum.",netral
+261,Aplikasinya mudah digunakan dan tidak lemot sama sekali.,positif
+262,"Desainnya cukup sesuai, fungsinya standar.",netral
+263,Aplikasinya mudah digunakan dan tidak lemot sama sekali.,positif
+264,"Kualitas cukup, sesuai dengan harga yang dibayar.",netral
+265,Harga sesuai dengan kualitas yang ditawarkan.,netral
+266,"Saya senang sekali dengan pembelian ini, top!",positif
+267,"Barang yang saya terima rusak, sangat mengecewakan.",negatif
+268,Support timnya cepat tanggap saat saya ada kendala.,positif
+269,"Pelayanan lambat dan tidak responsif, kecewa berat.",negatif
+270,"Customer service standar, cukup membantu.",netral
+271,"Barangnya original dan sesuai deskripsi, puas banget.",positif
+272,"Pelayanan cepat dan ramah, sangat direkomendasikan.",positif
+273,"Rasa makanannya enak banget, porsi juga pas.",positif
+274,"Produk ini standar saja, tidak ada yang istimewa.",netral
+275,"Rasa makanannya biasa saja, porsi standar.",netral
+276,"Harga sesuai untuk kualitas yang didapat, cukup adil.",netral
+277,"Pelayanan lambat dan tidak responsif, kecewa berat.",negatif
+278,Harga sesuai dengan kualitas yang ditawarkan.,netral
+279,"Saya senang sekali dengan pembelian ini, top!",positif
+280,Desainnya elegan dan fungsinya sesuai kebutuhan saya.,positif
+281,"Saya senang sekali dengan pembelian ini, top!",positif
+282,"Rasa makanannya biasa saja, porsi standar.",netral
+283,"Pembelian ini biasa saja, tidak ada kesan khusus.",netral
+284,Support timnya lambat merespon keluhan saya.,negatif
+285,"Pembelian ini biasa saja, tidak ada kesan khusus.",netral
+286,"Pelayanan cepat dan ramah, sangat direkomendasikan.",positif
+287,"Rasa makanannya biasa saja, porsi standar.",netral
+288,"Kualitas jauh dari ekspektasi, tidak sesuai foto.",negatif
+289,"Produk ini standar saja, tidak ada yang istimewa.",netral
+290,"Pengiriman lama sekali, packing juga asal-asalan.",negatif
+291,"Pengiriman lama sekali, packing juga asal-asalan.",negatif
+292,"Aplikasinya cukup mudah digunakan, ada beberapa bug kecil.",netral
+293,"Cukup memuaskan, mungkin akan pertimbangkan beli lagi.",netral
+294,"Pelayanan lambat dan tidak responsif, kecewa berat.",negatif
+295,"Barangnya original dan sesuai deskripsi, puas banget.",positif
+296,"Sangat memuaskan, akan beli lagi di sini.",positif
+297,"Tidak worth it untuk harga segini, tidak recommended.",negatif
+298,"Kualitas jahitan rapi, bahan adem, recommended seller.",positif
+299,Desainnya elegan dan fungsinya sesuai kebutuhan saya.,positif
+300,"Rasa makanannya enak banget, porsi juga pas.",positif
